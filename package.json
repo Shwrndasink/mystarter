@@ -1,0 +1,8 @@
+{
+  "name": "mystarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shwrndasink/mystarter.git",
+  "author": "Marc White <mwhite@overstock.com>",
+  "license": "MIT"
+}
